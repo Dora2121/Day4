@@ -1,0 +1,15 @@
+C:\Users\DORA BABU\Desktop\work space\Training\LanguageBasics\bin\Debug\net6.0\LanguageBasics.exe
+C:\Users\DORA BABU\Desktop\work space\Training\LanguageBasics\bin\Debug\net6.0\LanguageBasics.deps.json
+C:\Users\DORA BABU\Desktop\work space\Training\LanguageBasics\bin\Debug\net6.0\LanguageBasics.runtimeconfig.json
+C:\Users\DORA BABU\Desktop\work space\Training\LanguageBasics\bin\Debug\net6.0\LanguageBasics.dll
+C:\Users\DORA BABU\Desktop\work space\Training\LanguageBasics\bin\Debug\net6.0\LanguageBasics.pdb
+C:\Users\DORA BABU\Desktop\work space\Training\LanguageBasics\obj\Debug\net6.0\LanguageBasics.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\Training\LanguageBasics\obj\Debug\net6.0\LanguageBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DORA BABU\Desktop\work space\Training\LanguageBasics\obj\Debug\net6.0\LanguageBasics.AssemblyInfoInputs.cache
+C:\Users\DORA BABU\Desktop\work space\Training\LanguageBasics\obj\Debug\net6.0\LanguageBasics.AssemblyInfo.cs
+C:\Users\DORA BABU\Desktop\work space\Training\LanguageBasics\obj\Debug\net6.0\LanguageBasics.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\Training\LanguageBasics\obj\Debug\net6.0\LanguageBasics.dll
+C:\Users\DORA BABU\Desktop\work space\Training\LanguageBasics\obj\Debug\net6.0\refint\LanguageBasics.dll
+C:\Users\DORA BABU\Desktop\work space\Training\LanguageBasics\obj\Debug\net6.0\LanguageBasics.pdb
+C:\Users\DORA BABU\Desktop\work space\Training\LanguageBasics\obj\Debug\net6.0\LanguageBasics.genruntimeconfig.cache
+C:\Users\DORA BABU\Desktop\work space\Training\LanguageBasics\obj\Debug\net6.0\ref\LanguageBasics.dll

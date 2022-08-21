@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\Training\conversiontemp\bin\Debug\conversiontemp.exe.config
+C:\Users\DORA BABU\Desktop\work space\Training\conversiontemp\bin\Debug\conversiontemp.exe
+C:\Users\DORA BABU\Desktop\work space\Training\conversiontemp\bin\Debug\conversiontemp.pdb
+C:\Users\DORA BABU\Desktop\work space\Training\conversiontemp\obj\Debug\conversiontemp.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\Training\conversiontemp\obj\Debug\conversiontemp.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\Training\conversiontemp\obj\Debug\conversiontemp.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\Training\conversiontemp\obj\Debug\conversiontemp.exe
+C:\Users\DORA BABU\Desktop\work space\Training\conversiontemp\obj\Debug\conversiontemp.pdb

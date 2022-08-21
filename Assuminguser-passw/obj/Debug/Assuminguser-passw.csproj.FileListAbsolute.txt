@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\Training\Assuminguser-passw\bin\Debug\Assuminguser-passw.exe.config
+C:\Users\DORA BABU\Desktop\work space\Training\Assuminguser-passw\bin\Debug\Assuminguser-passw.exe
+C:\Users\DORA BABU\Desktop\work space\Training\Assuminguser-passw\bin\Debug\Assuminguser-passw.pdb
+C:\Users\DORA BABU\Desktop\work space\Training\Assuminguser-passw\obj\Debug\Assuminguser-passw.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\Training\Assuminguser-passw\obj\Debug\Assuminguser-passw.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\Training\Assuminguser-passw\obj\Debug\Assuminguser-passw.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\Training\Assuminguser-passw\obj\Debug\Assuminguser-passw.exe
+C:\Users\DORA BABU\Desktop\work space\Training\Assuminguser-passw\obj\Debug\Assuminguser-passw.pdb

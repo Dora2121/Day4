@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\Training\ageone\bin\Debug\ageone.exe.config
+C:\Users\DORA BABU\Desktop\work space\Training\ageone\bin\Debug\ageone.exe
+C:\Users\DORA BABU\Desktop\work space\Training\ageone\bin\Debug\ageone.pdb
+C:\Users\DORA BABU\Desktop\work space\Training\ageone\obj\Debug\ageone.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\Training\ageone\obj\Debug\ageone.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\Training\ageone\obj\Debug\ageone.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\Training\ageone\obj\Debug\ageone.exe
+C:\Users\DORA BABU\Desktop\work space\Training\ageone\obj\Debug\ageone.pdb

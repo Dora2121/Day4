@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\Training\Three_numbers\bin\Debug\Three_numbers.exe.config
+C:\Users\DORA BABU\Desktop\work space\Training\Three_numbers\bin\Debug\Three_numbers.exe
+C:\Users\DORA BABU\Desktop\work space\Training\Three_numbers\bin\Debug\Three_numbers.pdb
+C:\Users\DORA BABU\Desktop\work space\Training\Three_numbers\obj\Debug\Three_numbers.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\Training\Three_numbers\obj\Debug\Three_numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\Training\Three_numbers\obj\Debug\Three_numbers.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\Training\Three_numbers\obj\Debug\Three_numbers.exe
+C:\Users\DORA BABU\Desktop\work space\Training\Three_numbers\obj\Debug\Three_numbers.pdb

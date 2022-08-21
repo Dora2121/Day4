@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\Training\LanguagesEnhancement\bin\Debug\LanguagesEnhancement.exe.config
+C:\Users\DORA BABU\Desktop\work space\Training\LanguagesEnhancement\bin\Debug\LanguagesEnhancement.exe
+C:\Users\DORA BABU\Desktop\work space\Training\LanguagesEnhancement\bin\Debug\LanguagesEnhancement.pdb
+C:\Users\DORA BABU\Desktop\work space\Training\LanguagesEnhancement\obj\Debug\LanguagesEnhancement.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\Training\LanguagesEnhancement\obj\Debug\LanguagesEnhancement.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\Training\LanguagesEnhancement\obj\Debug\LanguagesEnhancement.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\Training\LanguagesEnhancement\obj\Debug\LanguagesEnhancement.exe
+C:\Users\DORA BABU\Desktop\work space\Training\LanguagesEnhancement\obj\Debug\LanguagesEnhancement.pdb

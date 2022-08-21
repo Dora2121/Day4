@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\Training\LoopingFiles\bin\Debug\LoopingFiles.exe.config
+C:\Users\DORA BABU\Desktop\work space\Training\LoopingFiles\bin\Debug\LoopingFiles.exe
+C:\Users\DORA BABU\Desktop\work space\Training\LoopingFiles\bin\Debug\LoopingFiles.pdb
+C:\Users\DORA BABU\Desktop\work space\Training\LoopingFiles\obj\Debug\LoopingFiles.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\Training\LoopingFiles\obj\Debug\LoopingFiles.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\Training\LoopingFiles\obj\Debug\LoopingFiles.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\Training\LoopingFiles\obj\Debug\LoopingFiles.exe
+C:\Users\DORA BABU\Desktop\work space\Training\LoopingFiles\obj\Debug\LoopingFiles.pdb

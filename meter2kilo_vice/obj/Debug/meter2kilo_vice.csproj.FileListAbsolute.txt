@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\Training\meter2kilo_vice\bin\Debug\meter2kilo_vice.exe.config
+C:\Users\DORA BABU\Desktop\work space\Training\meter2kilo_vice\bin\Debug\meter2kilo_vice.exe
+C:\Users\DORA BABU\Desktop\work space\Training\meter2kilo_vice\bin\Debug\meter2kilo_vice.pdb
+C:\Users\DORA BABU\Desktop\work space\Training\meter2kilo_vice\obj\Debug\meter2kilo_vice.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\Training\meter2kilo_vice\obj\Debug\meter2kilo_vice.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\Training\meter2kilo_vice\obj\Debug\meter2kilo_vice.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\Training\meter2kilo_vice\obj\Debug\meter2kilo_vice.exe
+C:\Users\DORA BABU\Desktop\work space\Training\meter2kilo_vice\obj\Debug\meter2kilo_vice.pdb

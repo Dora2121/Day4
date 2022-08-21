@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\Training\UStoINDIANRupees\obj\Debug\UStoINDIANRupees.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\Training\UStoINDIANRupees\obj\Debug\UStoINDIANRupees.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\Training\UStoINDIANRupees\obj\Debug\UStoINDIANRupees.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\Training\UStoINDIANRupees\bin\Debug\UStoINDIANRupees.exe.config
+C:\Users\DORA BABU\Desktop\work space\Training\UStoINDIANRupees\bin\Debug\UStoINDIANRupees.exe
+C:\Users\DORA BABU\Desktop\work space\Training\UStoINDIANRupees\bin\Debug\UStoINDIANRupees.pdb
+C:\Users\DORA BABU\Desktop\work space\Training\UStoINDIANRupees\obj\Debug\UStoINDIANRupees.exe
+C:\Users\DORA BABU\Desktop\work space\Training\UStoINDIANRupees\obj\Debug\UStoINDIANRupees.pdb

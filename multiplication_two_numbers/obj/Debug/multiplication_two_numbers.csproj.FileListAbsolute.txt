@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\Training\multiplication_two_numbers\bin\Debug\multiplication_two_numbers.exe.config
+C:\Users\DORA BABU\Desktop\work space\Training\multiplication_two_numbers\bin\Debug\multiplication_two_numbers.exe
+C:\Users\DORA BABU\Desktop\work space\Training\multiplication_two_numbers\bin\Debug\multiplication_two_numbers.pdb
+C:\Users\DORA BABU\Desktop\work space\Training\multiplication_two_numbers\obj\Debug\multiplication_two_numbers.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\Training\multiplication_two_numbers\obj\Debug\multiplication_two_numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\Training\multiplication_two_numbers\obj\Debug\multiplication_two_numbers.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\Training\multiplication_two_numbers\obj\Debug\multiplication_two_numbers.exe
+C:\Users\DORA BABU\Desktop\work space\Training\multiplication_two_numbers\obj\Debug\multiplication_two_numbers.pdb

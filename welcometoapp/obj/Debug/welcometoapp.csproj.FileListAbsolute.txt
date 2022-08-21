@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\Training\welcometoapp\bin\Debug\welcometoapp.exe.config
+C:\Users\DORA BABU\Desktop\work space\Training\welcometoapp\bin\Debug\welcometoapp.exe
+C:\Users\DORA BABU\Desktop\work space\Training\welcometoapp\bin\Debug\welcometoapp.pdb
+C:\Users\DORA BABU\Desktop\work space\Training\welcometoapp\obj\Debug\welcometoapp.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\Training\welcometoapp\obj\Debug\welcometoapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\Training\welcometoapp\obj\Debug\welcometoapp.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\Training\welcometoapp\obj\Debug\welcometoapp.exe
+C:\Users\DORA BABU\Desktop\work space\Training\welcometoapp\obj\Debug\welcometoapp.pdb

@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\Training\Spacesnumbers\bin\Debug\Spacesnumbers.exe.config
+C:\Users\DORA BABU\Desktop\work space\Training\Spacesnumbers\bin\Debug\Spacesnumbers.exe
+C:\Users\DORA BABU\Desktop\work space\Training\Spacesnumbers\bin\Debug\Spacesnumbers.pdb
+C:\Users\DORA BABU\Desktop\work space\Training\Spacesnumbers\obj\Debug\Spacesnumbers.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\Training\Spacesnumbers\obj\Debug\Spacesnumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\Training\Spacesnumbers\obj\Debug\Spacesnumbers.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\Training\Spacesnumbers\obj\Debug\Spacesnumbers.exe
+C:\Users\DORA BABU\Desktop\work space\Training\Spacesnumbers\obj\Debug\Spacesnumbers.pdb

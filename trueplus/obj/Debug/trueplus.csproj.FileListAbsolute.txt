@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\Training\trueplus\bin\Debug\trueplus.exe.config
+C:\Users\DORA BABU\Desktop\work space\Training\trueplus\bin\Debug\trueplus.exe
+C:\Users\DORA BABU\Desktop\work space\Training\trueplus\bin\Debug\trueplus.pdb
+C:\Users\DORA BABU\Desktop\work space\Training\trueplus\obj\Debug\trueplus.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\Training\trueplus\obj\Debug\trueplus.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\Training\trueplus\obj\Debug\trueplus.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\Training\trueplus\obj\Debug\trueplus.exe
+C:\Users\DORA BABU\Desktop\work space\Training\trueplus\obj\Debug\trueplus.pdb

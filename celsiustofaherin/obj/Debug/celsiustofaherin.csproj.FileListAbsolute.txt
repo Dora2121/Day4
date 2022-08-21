@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\Training\celsiustofaherin\bin\Debug\celsiustofaherin.exe.config
+C:\Users\DORA BABU\Desktop\work space\Training\celsiustofaherin\bin\Debug\celsiustofaherin.exe
+C:\Users\DORA BABU\Desktop\work space\Training\celsiustofaherin\bin\Debug\celsiustofaherin.pdb
+C:\Users\DORA BABU\Desktop\work space\Training\celsiustofaherin\obj\Debug\celsiustofaherin.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\Training\celsiustofaherin\obj\Debug\celsiustofaherin.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\Training\celsiustofaherin\obj\Debug\celsiustofaherin.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\Training\celsiustofaherin\obj\Debug\celsiustofaherin.exe
+C:\Users\DORA BABU\Desktop\work space\Training\celsiustofaherin\obj\Debug\celsiustofaherin.pdb

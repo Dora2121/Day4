@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\Training\arithematic\bin\Debug\arithematic.exe.config
+C:\Users\DORA BABU\Desktop\work space\Training\arithematic\bin\Debug\arithematic.exe
+C:\Users\DORA BABU\Desktop\work space\Training\arithematic\bin\Debug\arithematic.pdb
+C:\Users\DORA BABU\Desktop\work space\Training\arithematic\obj\Debug\arithematic.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\Training\arithematic\obj\Debug\arithematic.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\Training\arithematic\obj\Debug\arithematic.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\Training\arithematic\obj\Debug\arithematic.exe
+C:\Users\DORA BABU\Desktop\work space\Training\arithematic\obj\Debug\arithematic.pdb

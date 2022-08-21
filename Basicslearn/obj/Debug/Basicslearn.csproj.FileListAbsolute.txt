@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\Training\Basicslearn\bin\Debug\Basicslearn.exe.config
+C:\Users\DORA BABU\Desktop\work space\Training\Basicslearn\bin\Debug\Basicslearn.exe
+C:\Users\DORA BABU\Desktop\work space\Training\Basicslearn\bin\Debug\Basicslearn.pdb
+C:\Users\DORA BABU\Desktop\work space\Training\Basicslearn\obj\Debug\Basicslearn.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\Training\Basicslearn\obj\Debug\Basicslearn.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\Training\Basicslearn\obj\Debug\Basicslearn.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\Training\Basicslearn\obj\Debug\Basicslearn.exe
+C:\Users\DORA BABU\Desktop\work space\Training\Basicslearn\obj\Debug\Basicslearn.pdb

@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\Training\Rectbox\bin\Debug\Rectbox.exe.config
+C:\Users\DORA BABU\Desktop\work space\Training\Rectbox\bin\Debug\Rectbox.exe
+C:\Users\DORA BABU\Desktop\work space\Training\Rectbox\bin\Debug\Rectbox.pdb
+C:\Users\DORA BABU\Desktop\work space\Training\Rectbox\obj\Debug\Rectbox.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\Training\Rectbox\obj\Debug\Rectbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\Training\Rectbox\obj\Debug\Rectbox.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\Training\Rectbox\obj\Debug\Rectbox.exe
+C:\Users\DORA BABU\Desktop\work space\Training\Rectbox\obj\Debug\Rectbox.pdb

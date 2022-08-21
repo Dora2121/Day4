@@ -1,0 +1,8 @@
+C:\Users\DORA BABU\Desktop\work space\Training\swapping2numbers\bin\Debug\swapping2numbers.exe.config
+C:\Users\DORA BABU\Desktop\work space\Training\swapping2numbers\bin\Debug\swapping2numbers.exe
+C:\Users\DORA BABU\Desktop\work space\Training\swapping2numbers\bin\Debug\swapping2numbers.pdb
+C:\Users\DORA BABU\Desktop\work space\Training\swapping2numbers\obj\Debug\swapping2numbers.csproj.AssemblyReference.cache
+C:\Users\DORA BABU\Desktop\work space\Training\swapping2numbers\obj\Debug\swapping2numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\DORA BABU\Desktop\work space\Training\swapping2numbers\obj\Debug\swapping2numbers.csproj.CoreCompileInputs.cache
+C:\Users\DORA BABU\Desktop\work space\Training\swapping2numbers\obj\Debug\swapping2numbers.exe
+C:\Users\DORA BABU\Desktop\work space\Training\swapping2numbers\obj\Debug\swapping2numbers.pdb
